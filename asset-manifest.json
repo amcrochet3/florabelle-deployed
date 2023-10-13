@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/florabelle/static/css/main.7dc99c76.css",
+    "main.js": "/florabelle/static/js/main.65de516e.js",
+    "static/js/787.d0e732b2.chunk.js": "/florabelle/static/js/787.d0e732b2.chunk.js",
+    "index.html": "/florabelle/index.html",
+    "main.7dc99c76.css.map": "/florabelle/static/css/main.7dc99c76.css.map",
+    "main.65de516e.js.map": "/florabelle/static/js/main.65de516e.js.map",
+    "787.d0e732b2.chunk.js.map": "/florabelle/static/js/787.d0e732b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dc99c76.css",
+    "static/js/main.65de516e.js"
+  ]
+}
